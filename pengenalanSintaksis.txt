@@ -3,10 +3,14 @@ PENGENALAN SINTAKSIS BAHASA PEMROGRAMAN
 - yang sudah berjalan
   1. python
   2. c++
-  3. java
-  4. html
-  5. css
-  6. php
+
+  * front end
+    3. java
+    4. html
+    5. css
+  
+  * back end
+    6. php
 
 - yang belum berjalan (akan di coba)
   1. laravel
